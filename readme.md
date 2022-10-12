@@ -2,14 +2,14 @@
 
 ## General purpose registers
 Modern x86 processors have eight 32-bit general purpose registers.
-* %EAX
-* %EBX
-* %ECX
-* %EDX
-* %ESI
-* %EDI
-* %ESP (Stack Pointer)
-* %EBP (Base Pointer) 
+* EAX
+* EBX
+* ECX
+* EDX
+* ESI
+* EDI
+* ESP (Stack Pointer)
+* EBP (Base Pointer) 
 
 ## Declaring Static Data Regions
 
